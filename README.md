@@ -12,6 +12,7 @@ a excel automation in python using openpyxl and pyautogui
 * pip3 install -r requirements.txt
 * ./program.py
 * ./app.py
+
 after execute the app.py click on the window program.py 
 
 ## problems
