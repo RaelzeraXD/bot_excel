@@ -17,3 +17,5 @@ after execute the app.py click on the window program.py
 ## problems
 if you are running in linux execute this command to avoid x11 problems
 * xhost +local:$USER
+in some distributions the package manager dont let you execute the pip3 without using the virtual enviroment to avoid that you can use at your own the follow command
+* pip3 install -r requirements.txt --break-system-packages
