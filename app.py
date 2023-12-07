@@ -1,4 +1,10 @@
 #!/bin/python3
+#
+#Author: israel silva de freitas
+#------------------------------
+#          CHANGELOG
+# v1.0 11/30/2023
+#------------------------------
 import openpyxl
 import pyautogui
 
