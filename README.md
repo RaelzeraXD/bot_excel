@@ -1,5 +1,5 @@
 # bot_excel
-a excel automation in python using openpyxl and pyautogui
+a excel automation in python using openpyxl and pyautogui that take each line from xlsx file and insert into a program
 
 ## how it works?
 **program.py** - a simple GUI to represent some program that you have in your company or something like that<br/>
